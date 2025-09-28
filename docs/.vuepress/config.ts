@@ -171,19 +171,19 @@ export default defineUserConfig({
          * 评论 comments
          * @see https://theme-plume.vuejs.press/guide/features/comments/
          */
-/*         comment: {
+        comment: {
             provider: 'Giscus', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
             comment: true,
             repo: 'Humengmeng233/GoodGoodStudy',
-            repoId: 'R_kgDOP3-3xQ',
+            repoId: 'R_kgDOP4TUfw',
             category: 'General',
-            categoryId: 'DIC_kwDOP3-3xc4Cv9fR',
+            categoryId: 'DIC_kwDOP4TUf84Cv_e7',
             mapping: 'pathname',
             reactionsEnabled: true,
             inputPosition: 'top',
             darkTheme: 'dark_protanopia',
             lightTheme: 'light_protanopia',
-        }, */
+        },
 
         /**
          * 资源链接替换
